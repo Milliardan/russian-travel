@@ -1,4 +1,4 @@
-.footer__menu-list__link {
+.footer__link {
   text-decoration: none;
   font-family: 'Inter',Arial,sans-serif;
   font-style: normal;
@@ -8,4 +8,10 @@
   color: var(--white);
   padding: 0;
   margin: 0;
+}
+
+.footer__link:hover {
+  opacity: .3;
+  transition: opacity .5s ease;
+  z-index: 1;
 }
