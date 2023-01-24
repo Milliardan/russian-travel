@@ -1,0 +1,22 @@
+.lead__wrap {
+  max-width: 984px;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__wrap {
+    max-width: 928px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead__wrap {
+    max-width: 768px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead__wrap {
+    max-width: 320px;
+  }
+}

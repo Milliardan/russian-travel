@@ -1,0 +1,10 @@
+.footer__menu {
+  display: flex;
+  align-items: center;
+}
+
+@media screen and (max-width: 320px) {
+  .footer__menu {
+    flex-wrap: wrap;
+  }
+}
