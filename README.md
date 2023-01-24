@@ -1,4 +1,4 @@
-### Проектная работа №3 - Russian Travel.
+# Проектная работа №3 - Russian Travel.
 
 **Описание**
 
@@ -16,4 +16,5 @@
 - CSS
 - Адаптивная верстка
 
-**
+
+[Ссылка проекта на GitHub](https://milliardan.github.io/russian-travel/)
