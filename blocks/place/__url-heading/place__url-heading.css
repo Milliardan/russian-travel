@@ -11,12 +11,6 @@
   padding: 0 0 12px 0;
 }
 
-@media screen and (max-width: 768px) {
-  .place__url-heading {
-    padding: 0 0 12px 0;
-  }
-}
-
 @media screen and (max-width: 696px) {
   .place__url-heading {
     text-align: center;
