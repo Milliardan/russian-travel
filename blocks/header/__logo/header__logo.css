@@ -10,5 +10,6 @@
   .header__logo {
     min-width: 142px;
     min-height: 42px;
+    background-size: 142px 42px;
   }
 }

@@ -11,15 +11,15 @@
   font-family: 'Inter';
   src: url(../../fonts/Inter-Bold.woff);
   src: url(../../fonts/Inter-Bold.woff2);
-  font-weight: 600;
+  font-weight: 700;
   font-style: bold;
   font-display: swap;
 }
 
 @font-face {
   font-family: 'Inter';
-  src: url(../../fonts/Inter-ExtraBold.woff);
-  src: url(../../fonts/Inter-ExtraBold.woff2);
+  src: url(../../fonts/Inter-Black.woff);
+  src: url(../../fonts/Inter-Black.woff2);
   font-weight: 900;
   font-display: swap;
 }

@@ -9,13 +9,7 @@
   margin: 0;
   padding: 0;
   align-self: end;
-}
-
-@media screen and (max-width: 1024px) {
-  .place__title {
-    font-size: 72px;
-    line-height: 76px;
-  }
+  letter-spacing: 0.8px;
 }
 
 @media screen and (max-width: 768px) {
@@ -33,17 +27,6 @@
     width: 100%;
     margin: 0 auto;
     text-align: left;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .place__title span {
-    display: block;
-  }
-}
-
-@media screen and (max-width: 696px) {
-  .place__title span {
-    display: inline;
+    letter-spacing: 0;
   }
 }
